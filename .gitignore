@@ -1,0 +1,14 @@
+node_modules/
+dist/
+out/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+data/
+.npm-cache/
+test-results/
+playwright-report/
+.test-data/
+*.sql.partial

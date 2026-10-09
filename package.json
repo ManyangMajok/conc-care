@@ -1,0 +1,45 @@
+{
+  "name": "conc-care",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.16.0"
+  },
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env server/index.js",
+    "build": "vite build",
+    "start": "node --env-file-if-exists=.env server/index.js --production",
+    "db:migrate": "node --env-file-if-exists=.env.migrate scripts/migrate.js",
+    "user:create": "node --env-file-if-exists=.env scripts/create-user.js",
+    "test": "node --env-file-if-exists=.env.test --test tests/*.test.js",
+    "test:e2e": "playwright test",
+    "db:backup": "node --env-file-if-exists=.env.migrate scripts/backup.js",
+    "start:hostinger": "node hostinger.js"
+  },
+  "dependencies": {
+    "@fontsource/outfit": "^5.3.0",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@radix-ui/react-alert-dialog": "^1.1.24",
+    "@radix-ui/react-dialog": "^1.2.0",
+    "clsx": "^2.1.1",
+    "cookie": "^1.1.1",
+    "express": "^5.2.1",
+    "helmet": "^8.3.0",
+    "mysql2": "^3.24.5",
+    "nodemailer": "^10.0.15",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4",
+    "tailwind-merge": "^3.7.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^5.2.0",
+    "prettier": "^3.9.9",
+    "tailwindcss": "^4.3.3",
+    "vite": "^7.3.7"
+  }
+}

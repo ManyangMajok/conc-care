@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "house-slabs",
+    "description": "We specialize in strong, highly durable concrete house slabs designed to provide the perfect foundation for your new residential build.",
+    "title": "House Slabs",
+    "image": "service-house-slabs.jpg"
+  },
+  {
+    "slug": "granny-flat-slabs",
+    "description": "Expertly poured foundation slabs for backyard granny flats, sheds, and outbuildings, perfectly leveled for immediate construction.",
+    "title": "Granny Flat Slabs",
+    "image": "service-granny-flat.jpg"
+  },
+  {
+    "slug": "house-footings",
+    "description": "Deep and robust concrete footings to ensure your structural integrity meets all engineering and local council requirements.",
+    "title": "House Footings",
+    "image": "service-footings.jpg"
+  },
+  {
+    "slug": "driveways",
+    "description": "Transform your property with a beautiful, high-quality concrete driveway. Available in exposed aggregate, stamped, or standard finish.",
+    "title": "Driveways",
+    "image": "service-driveways.jpg"
+  },
+  {
+    "slug": "garages-sheds",
+    "description": "Smooth, perfectly leveled interior concrete floors for residential garages and commercial sheds designed for heavy vehicle loads.",
+    "title": "Garages & Sheds",
+    "image": "service-garages.jpg"
+  },
+  {
+    "slug": "alfresco-areas",
+    "description": "Stylish stamped and decorative concrete for your alfresco patio or outdoor entertainment area, elevating your backyard aesthetics.",
+    "title": "Alfresco Areas",
+    "image": "service-alfresco.jpg"
+  },
+  {
+    "slug": "paths-walkways",
+    "description": "Clean, sweeping concrete pathways around your house that add curb appeal and functional, mud-free access to all areas.",
+    "title": "Paths & Walkways",
+    "image": "service-paths.jpg"
+  },
+  {
+    "slug": "crossovers",
+    "description": "Council-approved concrete crossovers meeting all local regulations, providing a seamless transition from street to driveway.",
+    "title": "Crossovers",
+    "image": "service-crossovers.jpg"
+  },
+  {
+    "slug": "concrete-cutting",
+    "description": "Professional concrete cutting services using high-powered saws for precision expansion joints, removals, and trenches.",
+    "title": "Concrete Cutting",
+    "image": "service-cutting.jpg"
+  },
+  {
+    "slug": "pressure-washing",
+    "description": "Revitalize your old, dirty concrete driveways and paths with our high-pressure washing service, restoring it to look brand new.",
+    "title": "Pressure Washing",
+    "image": "service-washing.jpg"
+  },
+  {
+    "slug": "concrete-repairs",
+    "description": "Expert structural repair and patching of cracked or damaged concrete walls and slabs to extend their lifespan.",
+    "title": "Concrete Repairs",
+    "image": "service-repairs.jpg"
+  },
+  {
+    "slug": "commercial-civil-works",
+    "description": "Large-scale commercial and civil concrete solutions including massive foundation slabs, carparks, and heavy infrastructure.",
+    "title": "Commercial & Civil Works",
+    "image": "service-commercial.jpg"
+  }
+]
